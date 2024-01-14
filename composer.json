@@ -1,0 +1,11 @@
+{
+    "name": "ville/php_scraper",
+    "autoload": {
+        "psr-4": {
+            "Ville\\PhpScraper\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
